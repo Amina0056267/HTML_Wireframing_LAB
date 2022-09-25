@@ -8,7 +8,7 @@
 ### - I will place sliding photo-cards of 3 animes in the middle of the page.
 ### - On the left hand side, I will place the recently added animes where there are boxes with crosses in them. Once you hover over these boxes (which will include the image of the anime), it will bring up a synopsis and details of the anime such as the date aired, status, the rating from viewers, the genre and a watch now button underneath.
 ### - On the bottom right hand side, I will put together a 'most popular anime' list which will include an icon of the anime, the name and viewer count as well as a scroll bar.
-### - In the footer, i will display an A-Z search bar that you can click to sort all th animes by the first letter of its name. Example, when clicking the letter 'A', all animes that start with 'A' should appear.
+### - In the footer, I will display an A-Z search bar that you can click to sort all the animes by the first letter of its name. Example, when clicking the letter 'A', all animes that start with 'A' should appear.
 
 
 
