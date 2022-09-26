@@ -1,0 +1,15 @@
+header {
+    background-color: rgb(188, 248, 248);
+    display: flex;
+    align-items: center;
+}
+
+header nav {
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .products {
+    background-color: #e5efdb;
+  }
